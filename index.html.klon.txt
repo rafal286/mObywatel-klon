@@ -24,3 +24,15 @@
     </script>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mObywatel Klon</title>
+</head>
+<body>
+    <h1>Witaj w mObywatel</h1>
+    <p>To jest testowa wersja strony.</p>
+</body>
+</html>
