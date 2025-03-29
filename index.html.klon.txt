@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mObywatel Klon</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        input { display: block; margin: 10px auto; padding: 10px; }
+        button { padding: 10px 20px; }
+    </style>
+</head>
+<body>
+    <h1>Witaj w mObywatel</h1>
+    <p>Wprowadź dane logowania:</p>
+    <input type="text" placeholder="Numer PESEL">
+    <input type="password" placeholder="Hasło">
+    <button onclick="login()">Zaloguj</button>
+
+    <script>
+        function login() {
+            alert("Logowanie tymczasowo niedostępne!");
+        }
+    </script>
+</body>
+</html>
